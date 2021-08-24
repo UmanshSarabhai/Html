@@ -1,0 +1,68 @@
+body {
+    background-color: papayawhip;
+}
+
+h2 {
+    position: relative;
+    display: inline;
+    top: 20px;
+}
+
+h4 {
+    position: relative;
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+button {
+    position: relative;
+    margin-left: 90%;
+    padding: 5px;
+    text-align: justify;
+    margin-right: 1px;
+    border-radius: 30%;
+    background-color: orange;
+    height: 40px;
+}
+
+button:hover {
+    opacity: 0.5;
+}
+
+img {
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 130px;
+}
+
+h3 {
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+p {
+    display: inline-flex;
+    margin-left: 5px;
+    margin-right: 65px;
+}
+
+.price {
+    display: inline-flex;
+    margin-right: 230px;
+}
+
+.B1 {
+    display: inline-flex;
+    margin-left: 30px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 30%;
+    background-color: rgb(206, 206, 206);
+}
+
+.unit {
+    display: inline-flex;
+    margin-right: 90px;
+}

@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(215, 220, 224);
+}
+
+h1 {
+    position: relative;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(167, 180, 178);
+    position: relative;
+    left: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 500px;
+    height: 800px;
+    padding: 5%;
+    border-radius: 7%;
+}
+
+label {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.textarea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 100%;
+}
+
+.img {
+    border-style: dotted;
+    padding-inline: 45%;
+    padding-block: 100px;
+}
+
+.img:hover {
+    opacity: 0.5;
+}
+
+textarea {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.submit {
+    padding: 15px 32px;
+    margin-left: 15%;
+    margin-top: 15px;
+    font-size: large;
+    border-radius: 35%;
+}
+
+.submit:hover {
+    opacity: 0.5;
+}
